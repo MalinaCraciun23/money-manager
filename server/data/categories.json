@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0c7ab4d4-3209-493e-b96b-a1dba6ad9aec",
+    "name": "Food",
+    "type": "expense"
+  },
+  {
+    "id": "03c1e061-661e-4cb8-a6f5-647c4eb021ee",
+    "name": "Utilities",
+    "type": "expense"
+  },
+  {
+    "id": "084c9628-1be2-43b4-ab90-3f17d6f1ae13",
+    "name": "Rent",
+    "type": "expense"
+  },
+  {
+    "id": "4a69fbbc-7327-427a-ae14-23f813af2f72",
+    "name": "Fun",
+    "type": "expense"
+  },
+  {
+    "id": "ae04c161-7862-446b-bca2-5acb22343caf",
+    "name": "Clothes",
+    "type": "expense"
+  },
+  {
+    "id": "e5126bd4-3704-4f1a-a7b9-c211e09d3187",
+    "name": "Salary",
+    "type": "income"
+  },
+  {
+    "id": "9f7b8293-f49a-4c26-b2fc-03986c27daf3",
+    "name": "Gifts",
+    "type": "income"
+  }
+]

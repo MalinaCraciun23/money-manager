@@ -1,0 +1,26 @@
+[
+  {
+    "id": "178ad3d6-4e38-4761-b1df-2000e6e78c1d",
+    "type": "expense",
+    "account": "Card",
+    "category": "Utilities",
+    "amount": 200,
+    "date": "2022-05-22T19:38:49.940Z"
+  },
+  {
+    "id": "ae0b4b20-9fb1-4cc5-ba30-f811973556df",
+    "type": "income",
+    "account": "Card",
+    "category": "Salary",
+    "amount": 600,
+    "date": "2022-05-22T19:39:09.048Z"
+  },
+  {
+    "id": "98d4fb8f-1dc2-4148-91ea-6291e801e055",
+    "type": "expense",
+    "account": "Cash",
+    "category": "Rent",
+    "amount": 250,
+    "date": "2022-05-22T19:39:27.694Z"
+  }
+]
